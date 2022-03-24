@@ -6,4 +6,8 @@
     <RootNamespace>sanctionScanner_Case</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.42" />
+  </ItemGroup>
+
 </Project>
